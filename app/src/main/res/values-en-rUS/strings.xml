@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="cadastrar_text">Submit</string>
+    <string name="text_box_input" translatable="false">Insert a text</string>
+    <string name="text_box">Result</string>
+</resources>

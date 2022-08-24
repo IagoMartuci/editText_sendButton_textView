@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OláMundo</string>
+    <string name="cadastrar_text">Cadastrar</string>
+    <string name="text_box">Resultado</string>
+    <string name="text_box_input" translatable="false">Digite um texto</string>
+</resources>
